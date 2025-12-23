@@ -10,6 +10,9 @@
     "libxml2",
     "curl",
     "onig",
+    "ncurses",
+    "libedit",
+    "postgresql",
     "sqlite",
     "libzip"
 ]
