@@ -11,5 +11,8 @@
     "curl",
     "onig",
     "sqlite",
+    "ncurses",
+    "libedit",
+    "postgresql",
     "libzip"
 ]
