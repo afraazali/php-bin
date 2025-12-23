@@ -16,6 +16,8 @@
     "openssl",
     "pdo",
     "pdo_mysql",
+    "pgsql",
+    "pdo_pgsql",
     "sqlite3",
     "pdo_sqlite",
     "phar",
