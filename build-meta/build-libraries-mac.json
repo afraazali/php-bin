@@ -10,6 +10,9 @@
     "openssl",
     "curl",
     "onig",
+    "ncurses",
+    "libedit",
+    "postgresql",
     "sqlite",
     "libzip"
 ]
